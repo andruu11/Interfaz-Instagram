@@ -1,0 +1,24 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\Instagram 2.0\bin\Debug\Instagram 2.0.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\Instagram 2.0\bin\Debug\Instagram 2.0.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Instagram 2.0\bin\Debug\Instagram 2.0.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\Instagram 2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\jhass\AppData\Local\Temporary Projects\Instagram 2.0\obj\Debug\Instagram 2.0.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Instagram 2.0\obj\Debug\Instagram_2._0.Form1.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Instagram 2.0\obj\Debug\Instagram_2._0.Properties.Resources.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Instagram 2.0\obj\Debug\Instagram 2.0.csproj.GenerateResource.Cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Instagram 2.0\obj\Debug\Instagram 2.0.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Instagram 2.0\obj\Debug\Instagram 2.0.pdb
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\bin\Debug\Instagram 2.0.exe.config
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\bin\Debug\Instagram 2.0.exe
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\bin\Debug\Instagram 2.0.pdb
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\obj\Debug\Instagram_2._0.Form1.resources
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\obj\Debug\Instagram_2._0.Properties.Resources.resources
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\obj\Debug\Instagram 2.0.csproj.GenerateResource.Cache
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\obj\Debug\Instagram 2.0.exe
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\obj\Debug\Instagram 2.0.pdb
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\bin\Debug\Interop.WMPLib.dll
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\bin\Debug\AxInterop.WMPLib.dll
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\obj\Debug\Interop.WMPLib.dll
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\obj\Debug\AxInterop.WMPLib.dll
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\obj\Debug\Instagram 2.0.csproj.ResolveComReference.cache
+D:\ayudantia\proyectos-visualstudio\Instagram 2.0\Instagram 2.0\obj\Debug\Instagram 2.0.csprojResolveAssemblyReference.cache
